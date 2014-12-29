@@ -7,12 +7,10 @@
     "cheerio": "~0.18.0"
   },
   "devDependencies": {},
-  "scripts": {
-    "test": "karma run"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/sweatybridge/uob-rewards.git"
+    "url": "git@github.com:sweatybridge/uob-rewards.git"
   },
   "keywords": [
     "fetch",

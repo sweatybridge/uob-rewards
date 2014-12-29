@@ -10,13 +10,8 @@ Usage Instructions
 
 0. Clone this repo
 1. Install nodejs, npm
-2. Install dependencies
-
-    npm install
-
-3. Run the script
-
-    nodejs rewards.js
+2. Install dependencies `npm install`
+3. Run the script `nodejs rewards.js`
 
 Alternatively
 =====

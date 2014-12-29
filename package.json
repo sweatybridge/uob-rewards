@@ -1,0 +1,30 @@
+{
+  "name": "uob-rewards",
+  "version": "1.0.0",
+  "description": "calculates the highest SG$ return for exchaning your UOB smart dollar",
+  "main": "rewards.js",
+  "dependencies": {
+    "cheerio": "~0.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "karma run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sweatybridge/uob-rewards.git"
+  },
+  "keywords": [
+    "fetch",
+    "url",
+    "cookie",
+    "cheerio",
+    "dom",
+    "sort"
+  ],
+  "author": "Han Qiao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sweatybridge/uob-rewards/issues"
+  }
+}
